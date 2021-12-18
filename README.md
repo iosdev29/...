@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/alina-boguslavskaya-406ab712b/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="22" width="22" /></a>
 <a href="https://www.upwork.com/freelancers/~01fa9f09cb7fea06ae" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="" height="22" width="22" /></a> -->
 
-<!-- <br /> -->
+<!-- <br />
 
 <div align="left">
   <!-- LINKEDIN -->
