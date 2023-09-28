@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alina Bohuslavska</h1>
+<h1 align="center">Hi 👋, I'm Alina</h1>
 <h3 align="center">I am an iOS/macOS Software Engineer with a solid experience developing apps for Apple systems: iOS, macOS, tvOS, watchOS.</h3>
 
 
